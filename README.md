@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Iván Gutiérrez Contreras</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, soy Iván Gutiérrez Contreras</h1></summary>
   </ul>
 </div>
 
@@ -57,7 +57,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Mis redes sociales 🤝</h2></summary>
   </ul>
 </div>
 
