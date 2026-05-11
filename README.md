@@ -14,7 +14,7 @@
 
 <p align="center">
   <b>📍 Redondela, Galicia, España</b><br>
-  <b>📱 Phone:</b> <a href="tel:+34625844235">+34 625 84 42 35</a> 📞 | 
+  <b>📱 Telefono:</b> <a href="tel:+34625844235">+34 625 84 42 35</a> 📞 | 
   <b>✉️ Email:</b> <a href="mailto:ivangxz1403@gmail.com">ivangxz1403@gmail.com</a>
 </p>
 
@@ -57,7 +57,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Mis redes sociales 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contacto 🤝</h2></summary>
   </ul>
 </div>
 
